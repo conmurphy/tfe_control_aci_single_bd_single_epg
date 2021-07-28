@@ -1,4 +1,3 @@
-variable "github_token" {}
 variable "tfcb_token" {}
 variable "oauth_token_id" {}
 variable "tfe_organization_name" {}
